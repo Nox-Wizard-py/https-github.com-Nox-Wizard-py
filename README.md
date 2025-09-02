@@ -37,10 +37,10 @@ I love building clean, efficient, and impactful projects. Currently exploring **
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourlinkedin)  
+- [LinkedIn](https://www.linkedin.com/in/nazmul-hossain-10b335341/)  
 - [Portfolio](https://yourportfolio.com)  
-- [Twitter](https://twitter.com/yourhandle)  
-- [Email](mailto:youremail@example.com)
+- [Twitter](https://x.com/Nox_Wizard_py)  
+- [Email](mailto:hossainazmul132@gmail.com)
 
 ---
 
