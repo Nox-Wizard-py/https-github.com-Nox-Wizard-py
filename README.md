@@ -14,7 +14,6 @@ I love building clean, efficient, and impactful projects. Currently exploring **
 - 📊 **[Project Name 3](https://github.com/yourusername/project3)** – One-liner description | `Python, Pandas, Matplotlib`  
 - 🎮 **[Project Name 4](https://github.com/yourusername/project4)** – One-liner description | `Unity, C#`  
 
-*(Pick your most impressive 4–5 projects)*
 
 ---
 
