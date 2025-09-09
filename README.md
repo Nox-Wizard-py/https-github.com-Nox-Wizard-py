@@ -9,7 +9,7 @@ I love building clean, efficient, and impactful projects. Currently exploring **
 
 ## 🔭 My Top Projects
 
-- 🌐 **[Project Name 1](https://github.com/yourusername/project1)** – One-liner description | `React, Node.js`  
+- 🌐 **[Musical Chair Audio Player](https://github.com/Nox-Wizard-py/Musical-Chair)** – Completely Unbiased Music Player for Musical Chairs Game.  | `React, Node.js`  
 - 🤖 **[Project Name 2](https://github.com/yourusername/project2)** – One-liner description | `Python, Flask`  
 - 📊 **[Project Name 3](https://github.com/yourusername/project3)** – One-liner description | `Python, Pandas, Matplotlib`  
 - 🎮 **[Project Name 4](https://github.com/yourusername/project4)** – One-liner description | `Unity, C#`  
